@@ -4,6 +4,8 @@
 - 💡 Learning GOlang
 - 🚀 Startup lover
 - 📈 Stonks and <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Bitcoin-BTC-icon.png" width="20" alt="BTC"> Hodl
+- ⌨️ [Corne Keyboard](https://github.com/foostan/crkbd)
+
 
 ## 🖥  Languages 
 - <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="30" alt="Python"> Python 
