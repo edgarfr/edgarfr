@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 💻 Computer engineer working at [Kompyte](https://www.kompyte.com/), 📍 Barcelona
+- 💻 Computer engineer working at [Kompyte](https://www.kompyte.com/), 📍 Barcelona (FULL REMOTE)
 - 💡 Learning GOlang
 - 🚀 Startup lover
 - 📈 Stonks and <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Bitcoin-BTC-icon.png" width="20" alt="BTC"> Hodl
