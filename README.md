@@ -23,7 +23,7 @@
 ### StackOverflow
 [![Edgar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10618043&layout=compact)](https://stackoverflow.com/users/10618043/edgarfr)
 ### Github
-![Edgar's github stats](https://github-readme-stats.vercel.app/api?username=edgarfr&include_all_commits=true&hide=contribs&show_icons=true)
+![Edgar's github stats](https://github-readme-stats.vercel.app/api?username=edgarfr&include_all_commits=true&hide=contribs&show_icons=true&title_color=FF6C00&text_color=000000&icon_color=FF6C00)
 ![Edgar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarfr&layout=compact)
 
 
