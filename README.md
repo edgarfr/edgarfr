@@ -1,4 +1,6 @@
+<p style='margin-bottom: -50px'>
 <img src="https://raw.githubusercontent.com/edgarfr/edgarfr/main/top.svg">
+</p>
 ### Hi there 👋
 
 - 💻 Computer engineer working at [Kompyte](https://www.kompyte.com/), 📍 Barcelona (REMOTE)
@@ -54,4 +56,7 @@
  
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=edgarfr.edgarfr&left_color=grey&right_color=green)
+
+<p style='margin-top: -40px'>
 <img src="https://raw.githubusercontent.com/edgarfr/edgarfr/main/bottom.svg">
+</p>
