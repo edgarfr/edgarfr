@@ -1,4 +1,5 @@
-
+<img src="https://raw.githubusercontent.com/edgarfr/edgarfr/main/top.svg">
+ 
 # Hi there 👋
 
 - 💻 Computer engineer working at [Kompyte](https://www.kompyte.com/), 📍 Barcelona (REMOTE)
@@ -23,9 +24,12 @@
 ### StackOverflow
 [![Edgar's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10618043&layout=compact)](https://stackoverflow.com/users/10618043/edgarfr)
 ### Github
-![Edgar's github stats](https://github-readme-stats.vercel.app/api?username=edgarfr&include_all_commits=true&hide=contribs&show_icons=true&title_color=FF6C00&text_color=000000&icon_color=FF6C00)
-![Edgar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarfr&layout=compact)
+![Edgar's github stats](https://github-readme-stats.vercel.app/api?username=edgarfr&include_all_commits=true&hide=contribs&show_icons=true&title_color=5eb984&text_color=000000&icon_color=5eb984)
+![Edgar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarfr&layout=compact&title_color=5eb984)
 
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=edgarfr.edgarfr)
+
+
+<img src="https://raw.githubusercontent.com/edgarfr/edgarfr/main/bottom.svg">
