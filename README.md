@@ -1,6 +1,7 @@
 <p style='margin-bottom: -50px'>
 <img src="https://raw.githubusercontent.com/edgarfr/edgarfr/main/top.svg">
 </p>
+
 ### Hi there 👋
 
 - 💻 Computer engineer working at [Kompyte](https://www.kompyte.com/), 📍 Barcelona (REMOTE)
