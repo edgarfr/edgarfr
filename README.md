@@ -1,15 +1,14 @@
 <img src="https://raw.githubusercontent.com/edgarfr/edgarfr/main/top.svg">
-
-# Hi there 👋
+### Hi there 👋
 
 - 💻 Computer engineer working at [Kompyte](https://www.kompyte.com/), 📍 Barcelona (REMOTE)
 - 💡 Learning GOlang
 - 🚀 Startup lover
-- 📈 Stonks and <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Bitcoin-BTC-icon.png" width="20" alt="BTC"> Hodl
+- <img src="https://img.shields.io/badge/-BTC-F7931A?style=flat&logo=bitcoin&logoColor=fffff">
 - ⌨️ [Corne Keyboard](https://github.com/foostan/crkbd)
 
 
-## 🖥  Languages 
+### 🛠 Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-2a8c68?logo=python&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Javascript-e8ab26?logo=javascript&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Node-4a9542?logo=nodedotjs&logoColor=white&style=flat,">  <img src="https://img.shields.io/badge/-GoLang-2fb3da?logo=Go&logoColor=white&style=flat"> 
@@ -20,10 +19,17 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fffff">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fffff">
+<img src="https://img.shields.io/badge/-PyCharm-11915a?style=flat&logo=PyCharm&logoColor=fffff">
+</p>
+
+
+<p align="center">
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-macOS-000000?logo=Apple&logoColor=white&style=flat">
 </p>
 
-## ✉️ Contact me
+### 🤝🏻 Contact me
 
 <p align="center">
 <a href="https://edgarfr.com/go/linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat"></a>
@@ -32,16 +38,13 @@
 <a href="https://github.com/edgarfr/"><img src="https://img.shields.io/badge/-GitHub-181717?logo=Github&logoColor=white&style=flat"></a>
 </p>
 
-## 📊 Stats 
-### StackOverflow
+### Stats
 
 <p align="center">
 <a href="https://stackoverflow.com/users/10618043/edgarfr">
  <img height="100em" src="https://github-readme-stackoverflow.vercel.app/?userID=10618043&layout=compact"/>
  </a>
 </p>
-
-### Github
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edgarfr&show_icons=true&include_all_commits=true&count_private=true&title_color=5eb984&text_color=000000&icon_color=5eb984"/>
