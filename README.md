@@ -1,22 +1,18 @@
-<p style='margin-bottom: -50px'>
-<img src="https://raw.githubusercontent.com/edgarfr/edgarfr/main/top.svg">
+<p align="center" width="300">
+   <img align="center" width="400" src="https://github.com/edgarfr/edgarfr/blob/main/pic.png?raw=true" />
+   <h2 align="center">¡Hello World👋! Im Edgar</h2>
+   <h5 align="center">Machine Learning Engineer at <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Semrush_logo.svg/2560px-Semrush_logo.svg.png"></h5>
+  <h6 align="center">📍 Working remotely from Barcelona</h6>
 </p>
 
-### Hi there 👋
-
-- 💻 Computer engineer working at [Kompyte](https://www.kompyte.com/), 📍 Barcelona (REMOTE)
-- 💡 Learning GOlang
-- 🚀 Startup lover
-- <img src="https://img.shields.io/badge/-BTC-F7931A?style=flat&logo=bitcoin&logoColor=fffff">
-- ⌨️ [Corne Keyboard](https://github.com/foostan/crkbd)
 
 
-### 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Python-2a8c68?logo=python&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Javascript-e8ab26?logo=javascript&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Node-4a9542?logo=nodedotjs&logoColor=white&style=flat,">  <img src="https://img.shields.io/badge/-GoLang-2fb3da?logo=Go&logoColor=white&style=flat"> 
+<img src="https://img.shields.io/badge/-Python-2a8c68?logo=python&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-GoLang-2fb3da?logo=Go&logoColor=white&style=flat"> 
+ <img src="https://img.shields.io/badge/-Javascript-e8ab26?logo=javascript&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Node-4a9542?logo=nodedotjs&logoColor=white&style=flat,">
 </p>
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
@@ -34,34 +30,4 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-macOS-000000?logo=Apple&logoColor=white&style=flat">
-</p>
-
-### 🤝🏻 Contact me
-
-<p align="center">
-<a href="https://edgarfr.com/go/linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat"></a>
-<a href="https://edgarfr.com/go/mail/"><img src="https://img.shields.io/badge/-Email-EA4335?logo=Gmail&logoColor=white&style=flat"></a>
-<a href="https://edgarfr.com/"><img src="https://img.shields.io/badge/-Web-4285F4?logo=Google-Chrome&logoColor=white&style=flat"></a>
-<a href="https://github.com/edgarfr/"><img src="https://img.shields.io/badge/-GitHub-181717?logo=Github&logoColor=white&style=flat"></a>
-</p>
-
-### Stats
-
-<p align="center">
-<a href="https://stackoverflow.com/users/10618043/edgarfr">
- <img height="100em" src="https://github-readme-stackoverflow.vercel.app/?userID=10618043&layout=compact"/>
- </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edgarfr&show_icons=true&include_all_commits=true&count_private=true&title_color=5eb984&text_color=000000&icon_color=5eb984"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edgarfr&layout=compact&langs_count=8&title_color=5eb984&text_color=000000"/>
-  
-</p>
- 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=edgarfr.edgarfr&left_color=grey&right_color=green)
-
-<p style='margin-top: -40px'>
-<img src="https://raw.githubusercontent.com/edgarfr/edgarfr/main/bottom.svg">
 </p>
